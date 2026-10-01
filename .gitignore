@@ -1,0 +1,20 @@
+# Node.js 依赖
+node_modules/
+
+# Python 虚拟环境
+venv/
+.env/
+
+# Flask/Python 实例文件夹
+instance/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE 配置文件 (可选，建议忽略以保持仓库整洁)
+.vscode/
+.idea/
+
+# 日志文件
+*.log
